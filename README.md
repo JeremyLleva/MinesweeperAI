@@ -23,3 +23,4 @@ My AI Completed:
 
 Basic pattern recognition strategies were used to produce this result.
 
+##My Implementation can be found in the Minesweeper_Cpp/src/MyAI.cpp
